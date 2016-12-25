@@ -35,6 +35,7 @@ unzipped_path <- file.path("./project_data" , "UCI HAR Dataset")
 unzipped_files <- list.files(unzipped_path, recursive=TRUE)
 unzipped_files
 
+
 #read in the data and create tables
 
 #read in suject files
